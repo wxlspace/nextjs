@@ -1,3 +1,9 @@
+[Next.js + TypeScript 搭建一个简易的博客系统](https://cloud.tencent.com/developer/article/1699603?from=15425&areaSource=102001.9&traceId=4Nbb-yImf_ZMTTwdmbs2o)
+
+[middleware.ts](https://github.com/vercel/examples/blob/main/edge-functions/jwt-authentication/middleware.ts)
+
+## next-auth/jwt
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
